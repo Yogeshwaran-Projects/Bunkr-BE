@@ -1,0 +1,9 @@
+bin/
+bunkr-data/
+e2e-test-data/
+test-data*/
+*.exe
+*.test
+*.out
+.DS_Store
+tmp/
